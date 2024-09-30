@@ -1,5 +1,3 @@
-Dist adlı klasördeki Digital_clock adlı dosya ile uygulamayı başlatabilirsiniz.
-
 
 Uygulamayı kapatmak için sistem tepsisinden sağ tıklayıp quit demeniz yeterlidir.
 

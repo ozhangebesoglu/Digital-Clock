@@ -1,0 +1,15 @@
+Dist adlı klasördeki Digital_clock adlı dosya ile uygulamayı başlatabilirsiniz.
+
+
+Uygulamayı kapatmak için sistem tepsisinden sağ tıklayıp quit demeniz yeterlidir.
+
+Farenin sol tıkı ile istediğiniz yere sürükleyebilirsiniz ve orada sabit kalır.
+
+Farenin sağ tıkı ile menüyü açabilir menüden ise :
+
+- Alarm kurabilir (Saat ve dakika olarak kurulur ve vakit geldiği zaman 2 saniyelik bir alarm çaldıktan sonra ekrana uyarı verir)
+
+- Yazı rengini değiştirebilirsiniz
+
+- Çıkış yapabilirsiniz.
+
